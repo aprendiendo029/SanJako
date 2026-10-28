@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../sale-hp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sale-hp"
+	}
+}
